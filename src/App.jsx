@@ -7,8 +7,8 @@ function App() {
     <>
       <Helmet>
         <title>home</title>
-        <meta name="description" content="home page is home" />
-        <link rel="canonical" href="./" />
+
+        <link rel="canonical" href="/" />
         <meta
           name="google-site-verification"
           content="n1jZsIZXvJt8nN-PBIiCJakzrWq7cflAgDhPF-a3uvg"
